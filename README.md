@@ -1,8 +1,7 @@
 ### Heyy, I am Adrian! 🤙
 
-- 🔭 Estudante de Matemática Aplicada na FGV - Emap 
-- 🌱 
-- 📫 Contate-me no email:adrianfilipe1@outlook.com
+- 🔭 Student of Applied Mathematics at FGV - Emap
+- 📫 email:adrianfilipe1@outlook.com
 
 <div style="display: inline_block">
   <a href="https://github.com/FabricioVenturim">
